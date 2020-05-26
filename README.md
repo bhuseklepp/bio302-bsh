@@ -8,3 +8,4 @@
 
 
 #Hva er det beste du vet å spise? 
+#Det beste å spise er digg mat
